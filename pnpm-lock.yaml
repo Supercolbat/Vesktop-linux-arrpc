@@ -14,8 +14,8 @@ importers:
   .:
     dependencies:
       arrpc:
-        specifier: github:Supercolbat/arrpc-linux-prs#e20bc5120cfc7802af453425fd0a0be58e1a441d
-        version: https://codeload.github.com/Supercolbat/arrpc-linux-prs/tar.gz/e20bc5120cfc7802af453425fd0a0be58e1a441d(patch_hash=fy53mtrf7dgvxjxfpmbhkvjzaa)
+        specifier: github:Supercolbat/arrpc-linux-prs#550fd002b7761f9d401bce32148abe6d0f8c0d40
+        version: https://codeload.github.com/Supercolbat/arrpc-linux-prs/tar.gz/550fd002b7761f9d401bce32148abe6d0f8c0d40(patch_hash=fy53mtrf7dgvxjxfpmbhkvjzaa)
       electron-updater:
         specifier: ^6.3.4
         version: 6.3.4
@@ -630,8 +630,8 @@ packages:
     resolution: {integrity: sha512-bMxMKAjg13EBSVscxTaYA4mRc5t1UAXa2kXiGTNfZ079HIWXEkKmkgFrh/nJqamaLSrXO5H4WFFkPEaLJWbs3A==}
     engines: {node: '>= 0.4'}
 
-  arrpc@https://codeload.github.com/Supercolbat/arrpc-linux-prs/tar.gz/e20bc5120cfc7802af453425fd0a0be58e1a441d:
-    resolution: {tarball: https://codeload.github.com/Supercolbat/arrpc-linux-prs/tar.gz/e20bc5120cfc7802af453425fd0a0be58e1a441d}
+  arrpc@https://codeload.github.com/Supercolbat/arrpc-linux-prs/tar.gz/550fd002b7761f9d401bce32148abe6d0f8c0d40:
+    resolution: {tarball: https://codeload.github.com/Supercolbat/arrpc-linux-prs/tar.gz/550fd002b7761f9d401bce32148abe6d0f8c0d40}
     version: 3.5.0
     hasBin: true
 
@@ -3351,7 +3351,7 @@ snapshots:
       is-array-buffer: 3.0.4
       is-shared-array-buffer: 1.0.3
 
-  arrpc@https://codeload.github.com/Supercolbat/arrpc-linux-prs/tar.gz/e20bc5120cfc7802af453425fd0a0be58e1a441d(patch_hash=fy53mtrf7dgvxjxfpmbhkvjzaa):
+  arrpc@https://codeload.github.com/Supercolbat/arrpc-linux-prs/tar.gz/550fd002b7761f9d401bce32148abe6d0f8c0d40(patch_hash=fy53mtrf7dgvxjxfpmbhkvjzaa):
     dependencies:
       ws: 8.18.0
     transitivePeerDependencies:

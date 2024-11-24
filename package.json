@@ -24,7 +24,7 @@
         "updateMeta": "tsx scripts/utils/updateMeta.mts"
     },
     "dependencies": {
-        "arrpc": "github:Supercolbat/arrpc-linux-prs#e20bc5120cfc7802af453425fd0a0be58e1a441d",
+        "arrpc": "github:Supercolbat/arrpc-linux-prs#550fd002b7761f9d401bce32148abe6d0f8c0d40",
         "electron-updater": "^6.3.4"
     },
     "optionalDependencies": {
